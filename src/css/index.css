@@ -263,22 +263,10 @@ footer {
         margin-bottom: 15px;
     }
 
-    .main-container-1 {
-        display: none;
-    }
-
-    .main-container-2 {
-        display: block;
-        width: 90%;
-    }
-
     footer {
         margin-top: 100px;
     }
 
-    .navbar-768 {
-        display: block;
-    }
 }
 
 @media (max-width: 768px) {
@@ -300,6 +288,19 @@ footer {
 @media (max-width: 767px) {
     .top-container-1 {
         margin-bottom: 300px;
+    }
+
+    .navbar-768 {
+        display: block;
+    }
+
+    .main-container-1 {
+        display: none;
+    }
+
+    .main-container-2 {
+        display: block;
+        width: 90%;
     }
 }
 
