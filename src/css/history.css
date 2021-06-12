@@ -134,6 +134,11 @@ a:visited {
     display: block;
 }
 
+.btn {
+    display: block;
+    margin: auto;
+}
+
 footer {
     margin-top: 50px;
     height: 60px;
