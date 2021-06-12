@@ -302,6 +302,20 @@ footer {
         display: block;
         width: 90%;
     }
+
+    .mobile-pictures {
+        display: block;
+        margin-left: auto;
+        height: 125px;
+        border-radius: 15px;
+    }
+
+    .mobile-pictures-1 {
+        display: block;
+        margin-right: auto;
+        height: 125px;
+        border-radius: 15px;
+    }
 }
 
 @media (max-width: 400px) {
