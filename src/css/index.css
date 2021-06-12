@@ -76,7 +76,7 @@ a:visited {
 
 .top-container {
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 200px;
 }
 
 .top-container-1 {
@@ -160,6 +160,48 @@ footer {
 
 .navbar-768 {
     display: none;
+}
+
+@media (max-width: 2100px) {
+    .top-container {
+        margin-bottom: 175px;
+    }
+}
+
+@media (max-width: 2000px) {
+    .top-container {
+        margin-bottom: 150px;
+    }
+}
+
+@media (max-width: 1900px) {
+    .top-container {
+        margin-bottom: 125px;
+    }
+}
+
+@media (max-width: 1800px) {
+    .top-container {
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .top-container {
+        margin-bottom: 75px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .top-container {
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 1600px) {
+    .top-container {
+        margin-bottom: 25px;
+    }
 }
 
 @media (max-width: 1500px) {
