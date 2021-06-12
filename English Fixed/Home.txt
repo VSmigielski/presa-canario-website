@@ -1,0 +1,80 @@
+<h6 class="style125">Perro de Presa Canario</h6>
+                                <p class="style129">
+                                    Castle of Presa is the true home of the Real Perro de Presa Canario. We select the finest 
+                                    Presa Canario dogs from original Spanish bloodlines and bring them to the U.S. for our breeding 
+                                    program. Our commitment is to continue pure breeding of the Presa Canario following 
+                                    the original standards of the Canary Islands. We breed Presas with traditional appearance, stable 
+                                    temperament, defensive drive and outstanding working ability. We are dedicated to preserve the real 
+                                    Perro de Presa Canario.
+                                </p>
+
+                                <h6 class="style125">What type of dog is a Presa?</h6>
+                                <p class="style129">
+                                    Even though Presa Canarios are not listed as working dogs, they belong to the working group of dogs and are 
+                                    prized as protectors and guardians. The Presa Canario breed is gentle and extremely loyal to their family, but 
+                                    distrustful to strangers, always watching and keeping an eye out for potential danger. The Presa 
+                                    Canario is territorial and has a natural instinct for guarding. No special training for guarding is 
+                                    needed. This highly intelligent canine is generally calm, quiet, and moves slowly. However, when called 
+                                    to action, the Presa, with his muscular body, can be deceptively agile and fast.
+                                </p>
+                                <p class="style129">
+                                    When you are at home with your Presa lying down by your feet, either while working on your computer or watching 
+                                    TV, you can feel safe and secure knowing that this large, muscular beauty, will give his life in order 
+                                    to save yours. The Presa's courage and genuine beauty is incomparable with any other breed. We just love our 
+                                    Presas.
+                                </p>
+
+                                <h6 class="style125">
+                                    What is the difference between a Presa Canario and a Dogo Canario?
+                                </h6>
+                                <p class="style129">
+                                    The word “presa” can be translated to “gripper”. The Tenerife Club Espaňol del Dogo Canario (CEDC) did 
+                                     not feel comfortable with the name “gripper” so they changed it to “Dogo” in 2001 to make it politically 
+                                     correct. They concentrated more on the show-look to satisfy their judges than on performance and working 
+                                     abilities. Fédération Cynologique Internationale, also known as the FCI, is an International Kennel Club 
+                                     with 84 member countries which are mainly in Europe and it is based in Belgium. In 2001 the FCI aided by 
+                                     the CEDC, officially declared and recognized the "Perro de Presa Canario breed" as the "Dogo Canario", 
+                                     eliminating the black coat, traditional markings, and maximum weight limitation. <strong> The FCI 
+                                     changed the "unlimited weight" of the Dogo Canario to the original standards of the Presa Canario after 
+                                     almost 15 years (approximately 2015-2016). </strong> The change from “Presa” to “Dogo” was an insult to 
+                                     many traditional Presa breeders in the Canary Islands because they felt that Presa dogs have always been 
+                                     a large part of their heritage and always referred to them as Presa. The FCI is getting closer to the 
+                                     acceptance of the Presa Canario. As of December 2018/January 2019, the FCI reverted back to "Presa."
+                                </p>
+                                <p class="style129">
+                                    Because, there are still several Canary Islands breeders who do not accept the change, and breed real Presa 
+                                    based on the old Bardino Majorero bloodline (Bardino is an original Canary Island dog, which played a key 
+                                    role in the creation of Presa Canario), with original appearance, original temperament and register their 
+                                    Presa with U.S. clubs such as UPPCC, as Presa Canario. With this change, the CEDC with FCI actually created 
+                                    a new breed called "Dogo Canario". It is obvious, that if two dogs have two different standards they are two 
+                                    different dogs.
+                                </p>
+                                <p class="style129">
+                                    We, at Castle of Presa, are supportive of the traditional Presa bloodlines with working abilities, original 
+                                    appearance: sporting a black coat, and traditional markings. We breed Presa (not "Dogo") and will only register our dogs 
+                                    with UPPCC.
+                                </p>
+                                <p class="style129">
+                                    Even though the Presa has a long and glorious heritage, it is a relatively new breed. Since 2001, many breeders went 
+                                    in different directions with many ignoring the original Presa with traditional appearance and working abilities. They began breeding the Dogo Canario for dog shows. We can still see a significant difference between Presas and Dogos.
+                                </p>
+                                <p class="style129">
+                                    The Presa Canario is an extraordinary dog. When properly socialized and trained, there is no better dog than a Presa. 
+                                    Presa Canario can now participate in all UPPCC, AKC and UKC events which include obedience trials, agility trials, 
+                                    weight pulls, and personal protection events. There have already been reports about Presas being titled with PSA, 
+                                    Schutzhund, and French Ring. This clearly proves the Presa’s amazing working ability.
+                                </p>
+                                <p class="style129">
+                                    Just as ancient aristocrats used to value their Great Danes or English Mastiffs in ancient Europe, the Presa Canario, with 
+                                    their great appearance and guarding abilities, is gaining popularity, making them popular in the homes of the wealthy.
+                                </p>
+
+                                <img alt="UPPCC Club" src="src/images/UPPCC-pic.png" class="img-fluid rounded uppcc-img mt-3">
+                                <p class="text-center style68 mt-3">
+                                    We register our Presa Canarios at UPPCC club.
+                                </p>
+                                <p class="text-center style68">
+                                    You can register your puppy at any club who registers the Presa Canario breed.
+                                    There are two clubs in US who register Presas: UPPCC and UKC.
+                                </p>
+            
