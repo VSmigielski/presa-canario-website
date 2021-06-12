@@ -112,6 +112,10 @@ footer {
     color: white;
 }
 
+.navbar-768 {
+    display: none;
+}
+
 @media (max-width: 1500px) {
     .main-container {
         margin-top: 0px;
@@ -150,6 +154,7 @@ footer {
 
 @media (max-width: 768px) {
     .top-container-1 {
+        margin-top: 0px;
         margin-bottom: 300px;
     }
 
@@ -180,6 +185,10 @@ footer {
 
     footer {
         margin-top: 100px;
+    }
+
+    .navbar-768 {
+        display: block;
     }
 }
 
