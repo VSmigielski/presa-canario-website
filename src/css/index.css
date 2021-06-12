@@ -316,6 +316,11 @@ footer {
         height: 125px;
         border-radius: 15px;
     }
+
+    .navbar-toggler {
+        right: 15px;
+        position: absolute;
+    }
 }
 
 @media (max-width: 400px) {
