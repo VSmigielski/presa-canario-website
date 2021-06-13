@@ -135,17 +135,16 @@ a:visited {
 }
 
 .btn {
+    background-color:#362412;
+    padding: 10px;
+    color: white;
     display: block;
     margin: auto;
 }
 
-.btn-info {
-    background-color:#362412;
+.btn:hover {
+    border: 1px solid #362412;
     padding: 10px;
-}
-
-.hist-side-bar {
-    max-width: 325px;
 }
 
 footer {
@@ -164,7 +163,7 @@ footer {
 
 .fa-instagram {
     margin-left: 20px;
-    padding: 5px;
+    padding: 10px;
     color: white;
 }
 
@@ -178,17 +177,31 @@ footer {
 }
 
 .fa-youtube {
-    padding: 5px;
+    padding: 10px;
     color: white;
+}
+
+.bottom-navbar {
+    display: none;
+    margin: auto;
+}
+
+.fa-chevron-up {
+    padding: 5px;
 }
 
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
+    padding: 5px;
 }
 
 .navbar-768 {
+    display: none;
+}
+
+.navigation-flex-bottom {
     display: none;
 }
 
@@ -300,17 +313,22 @@ footer {
     }
 
     .btn {
-        background-color:#362412;
-        padding: 10px;
         font-size: 14px;
-        color: white;
     }
 
     .btn:hover {
-        background-color: transparent;
-        color: #362412;
-        border: 1px solid #362412;
-        padding: 10px;
         font-size: 14px;
+    }
+    
+    .bottom-navbar {
+        display: block;
+    }
+    
+    .navigation-flex-bottom {
+        display: block;
+    }
+    
+    footer {
+        background-color: transparent;
     }
 }
