@@ -100,7 +100,7 @@ to dark brown in accordance with coat color. Eyelids are close-fitting and black
 <em>Disqualifications: Blue, gray, or yellow, non-matching eyes.</em>
 </p>
 <p>
-EARS – The ears are of medium size, set just above the line of the eye and wide apart, and covered with short, 
+<strong>EARS</strong> – The ears are of medium size, set just above the line of the eye and wide apart, and covered with short, 
 fine hair. The ears may be natural (pendent or rose) or cropped. Pendent ears drop effortlessly to the sides 
 of the head and rose ears are close fitting. Cropped ears are erect.
 </p>
@@ -121,7 +121,7 @@ loose folds of skin at the throat which form a slight dewlap.
 
 <h6 class="style125 mt-2"> 
 Forequarters
-<h6>
+</h6>
 <p>
 The shoulders are muscular and well laid back. The upper arm is of good length and well-angled so that the front 
 legs are well-set behind the point of the shoulder. The elbows are set slightly outwards from the body. The front 
