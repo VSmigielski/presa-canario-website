@@ -330,6 +330,15 @@ footer {
         right: 15px;
         position: absolute;
     }
+
+    .copyright {
+        display: none;
+    }
+
+    .copyright-sm {
+        padding: 5px;
+        display: block;
+    }
 }
 
 @media (max-width: 400px) {
