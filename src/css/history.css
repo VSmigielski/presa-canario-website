@@ -139,6 +139,15 @@ a:visited {
     margin: auto;
 }
 
+.btn-info {
+    background-color:#362412;
+    padding: 10px;
+}
+
+.hist-side-bar {
+    max-width: 325px;
+}
+
 footer {
     margin-top: 50px;
     height: 60px;
@@ -161,6 +170,11 @@ footer {
 
 .copyright {
     padding: 5px;
+}
+
+.copyright-sm {
+    padding: 5px;
+    display: none;
 }
 
 .fa-youtube {
@@ -269,10 +283,24 @@ footer {
     .navbar-768 {
         display: block;
     }
+
+    .copyright {
+        display: none;
+    }
+
+    .copyright-sm {
+        display: block;
+    }
 }
 
 @media (max-width: 575px) {
     .top-container {
         margin-bottom: 100px;
+    }
+
+    .btn-info {
+        background-color:#362412;
+        padding: 5px;
+        font-size: 14px;
     }
 }
