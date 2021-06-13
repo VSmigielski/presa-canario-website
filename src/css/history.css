@@ -299,9 +299,18 @@ footer {
         margin-bottom: 100px;
     }
 
-    .btn-info {
+    .btn {
         background-color:#362412;
-        padding: 5px;
+        padding: 10px;
+        font-size: 14px;
+        color: white;
+    }
+
+    .btn:hover {
+        background-color: transparent;
+        color: #362412;
+        border: 1px solid #362412;
+        padding: 10px;
         font-size: 14px;
     }
 }
