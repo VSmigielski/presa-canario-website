@@ -255,6 +255,7 @@ footer {
     .main-container-2 {
         display: block;
         width: 90%;
+        margin-right: 0;
     }
 
     .mobile-pictures {
