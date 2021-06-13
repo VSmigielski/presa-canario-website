@@ -205,6 +205,47 @@ footer {
     display: none;
 }
 
+.margin-side-bar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1550px) {
+    .margin-side-bar {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 1450px) {
+    .margin-side-bar {
+        margin-top: 45px;
+    }
+}
+
+@media (max-width: 1350px) {
+    .margin-side-bar {
+        margin-top: 85px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .margin-side-bar {
+        margin-top: 150px;
+    }
+}
+
+@media (max-width: 1150px) {
+    .margin-side-bar {
+        margin-top: 185px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .margin-side-bar {
+        margin-top: 250px;
+    }
+}
+
 @media (max-width: 960px) {
     .castle-presa-picture {
         max-width: 350px;
@@ -220,6 +261,24 @@ footer {
 
     .main-pictures {
         max-width: 250px;
+    }
+}
+
+@media (max-width: 950px) {
+    .margin-side-bar {
+        margin-top: 300px;
+    }
+}
+
+@media (max-width: 900px) {
+    .margin-side-bar {
+        margin-top: 400px;
+    }
+}
+
+@media (max-width: 800px) {
+    .margin-side-bar {
+        margin-top: 470px;
     }
 }
 
