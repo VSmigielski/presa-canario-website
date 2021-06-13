@@ -240,9 +240,6 @@ footer {
 
 }
 
-@media (max-width: 768px) {
-}
-
 @media only screen and (max-width: 768px) {
     .top-container {
         margin-bottom: 50px;
@@ -250,6 +247,10 @@ footer {
 }
 
 @media (max-width: 767px) {
+    .top-container {
+        margin-bottom: 150px;
+    }
+
     .main-container {
         display: none;
     }
