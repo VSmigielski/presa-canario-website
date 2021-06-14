@@ -154,6 +154,12 @@ footer {
     display: none;
 }
 
+@media (max-width: 1224.98px) {
+    footer {
+        margin-top: 75px;
+    }
+}
+
 @media (max-width: 768px) {
     .top-container {
         margin-top: 0px;
@@ -206,10 +212,6 @@ footer {
 }
 
 @media (max-width: 575px) {
-    .top-container {
-        margin-bottom: 100px;
-    }
-    
     .bottom-navbar {
         display: block;
     }
@@ -220,5 +222,19 @@ footer {
     
     footer {
         background-color: transparent;
+    }
+    
+}
+
+@media (max-width: 374.98px) {
+    .fa-youtube {
+        padding: 10px 5;
+        color: white;
+    }
+
+    .fa-instagram {
+        margin-left: 10px;
+        padding: 10px 5;
+        color: white;
     }
 }

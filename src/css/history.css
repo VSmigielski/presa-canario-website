@@ -392,3 +392,16 @@ footer {
         background-color: transparent;
     }
 }
+
+@media (max-width: 374.98px) {
+    .fa-youtube {
+        padding: 10px 5;
+        color: white;
+    }
+
+    .fa-instagram {
+        margin-left: 10px;
+        padding: 10px 5;
+        color: white;
+    }
+}
