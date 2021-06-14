@@ -1,0 +1,81 @@
+<a href="http://www.castleofpresa.com/assets/JPEG/page_lg.jpg" target="_blank"><img
+                        src="src/images/our-dogs-first.jpg"
+                        alt="Page about Presas"
+                        class="img-fluid rounded main-pictures"
+                      /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules08_bw.jpg" target="_blank"><img
+                        src="src/images/our-dogs-second.jpg"
+                        alt="Page about Presas"
+                        class="img-fluid rounded main-pictures"
+                      /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Mora.jpg" target="_blank"><img
+                        src="src/images/our-dogs-third.jpg"
+                        alt="Page about Presas"
+                        class="img-fluid rounded main-pictures"
+                      /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/arain1.jpg" target="_blank"><img
+                        src="src/images/our-dogs-fourth.jpg"
+                        alt="Page about Presas"
+                        class="img-fluid rounded main-pictures"
+                      /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/Andora.jpg" target="_blank"><img alt="Andora" src="src/images/Andora_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/AndoraHead.jpg" target="_blank"><img alt="Andora" src="src/images/Andora1.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Dora1.jpg" target="_blank"><img alt="Andora" src="src/images/Andora2.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Dora2.jpg" target="_blank"><img alt="Andora" src="src/images/Andora3.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Dora3.jpg" target="_blank"><img alt="Andora" src="src/images/Andora4.jpg" class="rounded img-height" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/Xena1.jpg" target="_blank"><img alt="Xena" src="src/images/Xena_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Xena2.jpg" target="_blank"><img alt="Xena" src="src/images/Xena1.jpg" class="rounded img-height" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/toro1.jpg" target="_blank"><img alt="Toro" src="src/images/Toro_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/toro.jpg" target="_blank"><img alt="Toro" src="src/images/Toro1.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/toro2.jpg" target="_blank"><img alt="Toro" src="src/images/Toro2.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/toro1_tt.jpg" target="_blank"><img alt="Toro" src="src/images/Toro_main.jpg" class="rounded img-fluid main-pictures" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/Tarzik1.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Tarzik2.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana1.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Tarzik3.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana2.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Tarzik4.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana3.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/tarzana03.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana4.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/tarzana05.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana5.jpg" class="rounded img-height" /></a>
+<a href="castleofpresa.com/assets/JPEG/tarzana06.jpg" target="_blank"><img alt="Tarzana" src="src/images/Tarzana6.jpg" class="rounded img-height" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules1-AProfile.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules08.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules1.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules2.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules2.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules0.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules3.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules03.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules4.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules05.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules5.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/hercules06.jpg" target="_blank"><img alt="Hercules" src="src/images/Hercules6.jpg" class="rounded img-height-1" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/phantom1.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Phantom2.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom1.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/phantom1-2-years-old.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom2.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/phantom5.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom3.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/phantom6.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom4.jpg" class="rounded img-height" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Phantom_Prot.jpg" target="_blank"><img alt="Phantom" src="src/images/Phantom5.jpg" class="rounded img-height" /></a>
+<a href="castleofpresa.com/assets/JPEG/phantom7.jpg" target="_blank"> <img alt="Phantom" src="src/images/Phantom6.jpg" class="rounded img-height" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera01.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera06.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera1.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera02.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera2.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera03.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera3.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera04.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera4.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/panthera05.jpg" target="_blank"><img alt="Panthera" src="src/images/Panthera5.jpg" class="rounded img-height-1" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/electra1.jpg" target="_blank"><img alt="Electra" src="src/images/Electra_main.jpg" class="img-fluid rounded main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/presaincastle.jpg" target="_blank"><img alt="Electra" src="src/images/Electra1.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra2.jpg" target="_blank"><img alt="Electra" src="src/images/Electra2.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra3.jpg" target="_blank"><img alt="Electra" src="src/images/Electra3.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra4.jpg" target="_blank"><img alt="Electra" src="src/images/Electra4.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra5.jpg" target="_blank"><img alt="Electra" src="src/images/Electra5.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra6.jpg" target="_blank"><img alt="Electra" src="src/images/Electra6.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra_attack2.jpg" target="_blank"><img alt="Electra" src="src/images/Electra7.jpg" class="rounded img-height-1" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/electra_attack1.jpg" target="_blank"><img alt="Electra" src="src/images/Electra8.jpg" class="rounded img-height-1" /></a>
+
+<a href="http://www.castleofpresa.com/assets/JPEG/orpheus_1.jpg" target="_blank"><img alt="Orpheus" src="src/images/OrpheeCAN.jpg" class="rounded img-fluid main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/orpheus_2.jpg" target="_blank"><img alt="Orpheus" src="src/images/Orpheus_mid.jpg" class="rounded img-fluid main-pictures" /></a>
+<a href="http://www.castleofpresa.com/assets/JPEG/Puppies-playing.jpg" target="_blank"><img alt="Orpheus" src="src/images/Orpheus_puppies.jpg" class="rounded img-fluid main-pictures" /></a>
