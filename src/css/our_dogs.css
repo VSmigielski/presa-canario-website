@@ -253,6 +253,10 @@ footer {
     height: 250px;
 }
 
+.img-height-1 {
+    height: 200px;
+}
+
 .dog-pictures-1 {
     display: none;
 }
@@ -272,13 +276,13 @@ hr { display: block; height: 1px;
     .img-height {
         height: 200px;
     }
+
+    .img-height-1 {
+        height: 175px;
+    }
+    
 }
 
-@media (max-width: 1700px) {
-    .img-height {
-        height: 150px;
-    }
-}
 
 @media (max-width: 1250px) {
     .margin-side-bar {
