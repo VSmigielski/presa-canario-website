@@ -121,6 +121,12 @@ a:visited {
     color: #7D0000;
 }
 
+.view-forsale-dogs {
+    color: #7D0000!important;
+    font-size: 20px!important;
+    text-decoration: underline;
+}
+
 .top-container-sm {
     display: none;
 }
@@ -164,6 +170,12 @@ a:visited {
     background-color: #FFFFD2;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+}
+
+.last-section-pictures {
+    display: block;
+    margin: auto;
+    height: 125px;
 }
 
 footer {
@@ -457,6 +469,12 @@ hr { display: block; height: 1px;
 
     .dog-pictures-1 {
         display: block;
+    }
+
+    .last-section-pictures {
+        display: block;
+        margin: auto;
+        height: 100px;
     }
 
     footer {
