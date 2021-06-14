@@ -31,11 +31,23 @@ html {
     font-size: 24px;
 }
 
+.style61 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+}
+
 .style85 {
     font: bold 11px Arial, Helvetica, sans-serif;
     color: #993300;
     line-height: 22px;
     letter-spacing: .2em;
+}
+
+.style96 {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
 }
 
 .style86 {
@@ -62,8 +74,16 @@ a:visited {
 }
 
 .main-p {
-    font: 16px Arial, Helvetica, sans-serif;
+    font: 16px; 
+    font-family: Arial, Helvetica, sans-serif;
     color: #666666;
+}
+
+.main-large-p {
+    font-size: 24px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    text-align: center;
 }
 
 .first-row {
@@ -95,6 +115,17 @@ a:visited {
 .main-pictures {
     display: block;
     margin: auto;
+}
+
+.main-pictures-left {
+    display: block;
+    margin-left: auto;
+    min-height: 100%;
+}
+
+.main-pictures-right {
+    display: block;
+    margin-right: auto;
 }
 
 footer {
@@ -162,7 +193,7 @@ footer {
 }
 
 @media (max-width: 1125px) {
-    
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -213,6 +244,17 @@ footer {
     }
 }
 
+@media (max-width: 575.98px) {
+    .main-pictures-left {
+        margin: auto;
+    }
+    
+    .main-pictures-right {
+        margin: auto;
+        margin-top: 10px;
+    }
+}
+
 @media (max-width: 575px) {
     .top-container {
         margin-bottom: 75px;
@@ -257,11 +299,14 @@ footer {
     }
 }
 
-@media (max-width: 300.98px) {
+@media (max-width: 325px) {
     .main-pictures {
         max-width: 250px;
         height: auto;
     }
+}
+
+@media (max-width: 300.98px) {
 
     .top-container {
         margin-bottom: 120px;
