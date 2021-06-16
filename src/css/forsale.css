@@ -155,6 +155,12 @@ html {
     font-family: "Arial Black";
 }
 
+.style260 {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
 .style262 {
     font-size: 24px;
     font-family: "Arial Black";
@@ -187,6 +193,27 @@ a:visited {
     height: 425px;
 }
 
+.main-14-p {
+    font-size: 14px; 
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+
+.main-18-p {
+    font-size: 18px; 
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+
+.main-24-p {
+    font-size: 24px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    text-align: center;
+}
+
 hr { display: block; height: 1px;
     border: 0; border-top: 1px solid rgb(0, 0, 0);
     background-color: black;
@@ -209,10 +236,6 @@ hr { display: block; height: 1px;
     display: none;
 }
 
-.main-container-2 {
-    display: none;
-}
-
 .navigation-flex {
     background-color: #475F4B;
 }
@@ -221,12 +244,6 @@ hr { display: block; height: 1px;
     background-color: #FFF7D5;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-}
-
-.training-img {
-    min-width: 300px;
-    width: 35%;
-    height: auto;
 }
 
 footer {
@@ -287,47 +304,6 @@ footer {
     display: none;
 }
 
-.margin-side-bar {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-@media (max-width: 1550px) {
-    .margin-side-bar {
-        margin-top: 30px;
-    }
-}
-
-@media (max-width: 1450px) {
-    .margin-side-bar {
-        margin-top: 45px;
-    }
-}
-
-@media (max-width: 1350px) {
-    .margin-side-bar {
-        margin-top: 85px;
-    }
-}
-
-@media (max-width: 1250px) {
-    .margin-side-bar {
-        margin-top: 150px;
-    }
-}
-
-@media (max-width: 1150px) {
-    .margin-side-bar {
-        margin-top: 185px;
-    }
-}
-
-@media (max-width: 1050px) {
-    .margin-side-bar {
-        margin-top: 250px;
-    }
-}
-
 @media (max-width: 960px) {
     .main-pictures {
         max-width: 250px;
@@ -364,7 +340,7 @@ footer {
         display: none;
     }
 
-    .main-container-2 {
+    .main-container-1 {
         display: block;
         width: 90%;
         margin-right: 0;
