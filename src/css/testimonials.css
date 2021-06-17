@@ -1,0 +1,306 @@
+body {
+    background-color: #004F4F;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.style15 {
+    line-height: 22px; 
+    letter-spacing: .2em; 
+    font: bold 11px Arial, Helvetica, sans-serif;
+    border-top: 1px solid #666666;
+    flex: 1 1 4em;
+    margin: auto;
+    width: 125px;
+}
+
+.style57 {
+    color: #666666;
+    font-family: Agincort;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.style58 {
+    color: #666666;
+    font-family: Agincort;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.style63 {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    line-height: 20px;
+}
+
+.style64 {
+    color: #333333;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.style82 {
+    color: #0000CC;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.style84 {
+    color: #009999;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.style78 {
+    color: #9F0410;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.style85 {
+    font: bold 11px Arial, Helvetica, sans-serif;
+    color: #993300;
+    line-height: 22px;
+    letter-spacing: .2em;
+}
+
+.style100 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    line-height: 20px;
+}
+
+.style86 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #993300;
+    line-height: 30px;
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: .2em;
+}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+.main-pictures {
+    display: block;
+    margin: auto;
+}
+
+.view-links {
+    color: #7D0000!important;
+    font-size: 16px!important;
+    text-decoration: underline;
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid rgb(0, 0, 0);
+    background-color: black;
+    margin: 1em 0; padding: 0; }
+
+.main-16-p {
+    font: 16px Arial, Helvetica, sans-serif;
+    color: #666666;
+}
+
+.first-row {
+    height: 425px;
+}
+
+.col-bg {
+    background-color: #000000;
+}
+
+.mt-top-heading {
+    margin-top: 125px;
+}
+
+.main-container {
+    margin-top: 20px;
+}
+
+.main-container-1 {
+    display: none;
+}
+
+.navigation-flex {
+    background-color: #004F4F;
+}
+
+.main-bg{
+    background-color: #CEE1D6;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+footer {
+    margin-top: 50px;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.fa-instagram {
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.copyright {
+    padding: 5px;
+}
+
+.copyright-sm {
+    padding: 5px;
+    display: none;
+}
+
+.fa-youtube {
+    padding: 10px;
+    color: white;
+}
+
+.bottom-navbar {
+    display: none;
+    margin: auto;
+}
+
+.fa-chevron-up {
+    padding: 5px;
+}
+
+.contact-me {
+    margin-left: auto;
+    margin-right: 20px;
+    color: white;
+    padding: 5px;
+}
+
+.navbar-768 {
+    display: none;
+}
+
+.navigation-flex-bottom {
+    display: none;
+}
+
+@media (max-width: 1224.98px) {
+    footer {
+        margin-top: 75px;
+    }
+}
+
+@media (max-width: 768px) {
+    .top-container {
+        margin-top: 0px;
+        margin-bottom: 300px;
+    }
+
+    footer {
+        margin-top: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .top-container {
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 767px) {
+    .main-container {
+        display: none;
+    }
+
+    .main-container-1 {
+        display: block;
+        width: 90%;
+        margin-right: 0;
+    }
+
+    .navbar-toggler {
+        right: 15px;
+        position: absolute;
+    }
+
+    .navigation-flex {
+        display: none;
+    }
+
+    .navbar-768 {
+        display: block;
+    }
+
+    .copyright {
+        display: none;
+    }
+
+    .copyright-sm {
+        display: block;
+    }
+}
+
+@media (max-width: 575px) {
+    .bottom-navbar {
+        display: block;
+    }
+    
+    .navigation-flex-bottom {
+        display: block;
+    }
+    
+    footer {
+        background-color: transparent;
+    }
+    
+}
+
+@media (max-width: 374.98px) {
+    .fa-youtube {
+        padding: 10px 5;
+        color: white;
+    }
+
+    .fa-instagram {
+        margin-left: 10px;
+        padding: 10px 5;
+        color: white;
+    }
+
+    .main-pictures {
+        max-width: 150px;
+    }
+
+    .style86 {
+        font-size: 14px;
+    }
+
+    .style64 {
+        font-size: 14px;
+    }
+
+    .style78 {
+        font-size: 14px;
+    }
+}
