@@ -1,0 +1,36 @@
+Keep this text For Home Page-Mobil and Desktop:
+
+Perro de Presa Canario
+
+The Castle of Presa is the true home of the Real Perro de Presa Canario. We selected the finest Presa Canario dogs from original Spanish bloodlines and brought them to the U.S. for our breeding program. Our commitment and dedication is to continue pure breeding of the Presa Canario according to original standards from the Canary Islands. We breed Presas with traditional appearance, stable temperament, defensive drive and outstanding working ability. We are dedicated to preserve the real Perro de Presa Canario.
+
+What type of dog is a Presa? 
+Even though Presa Canario is not listed as a working dog, it belongs to working group of dogs, and is prized as a protector and guardian. The Presa Canario is gentle and extremely loyal to his family, but distrustful to strangers, always being watchful and keeping an eye out for potential danger. The Presa Canario is territorial, and has natural instinct for guarding. This highly intelligent canine is generally calm and quiet, and moves slowly. But, when called for action, the Presa with his muscular body can be deceptively agile and fast.   When you are at home with your Presa lying down by your feet, while working on your computer or watching TV, you will feel safe and secure knowing that this large, muscular beauty, will give his life in order to save yours. Presas courage and genuine beauty is incomparable with any other breed. We just Love our Presas.
+
+Just as ancient aristocrats used to value their Great Danes, or English Mastiffs in ancient Europe, the Presa Canario with his great appearance, fantastic temperament and guarding abilities is gaining popularity and makes him popular in the homes of the wealthy. 
+
+And please move rest of the text to History Page
+
+Please remove following pages from mobile site:
+- History 
+- Standard 
+- Store Remove it also from site
+- Health - Will make new one 
+- Testimonials 
+- Articles
+- News
+- Dog rescue 
+- Links
+
+____________________
+
+Then Please keep:
+- home ( will edit, send you text  to keep)
+- Our dogs
+- puppies 
+- for sale
+- Dog Training* Very important, but will have to re-do it, will take info from Czech-K9 
+- About Us
+- Contact
+
+Our Dogs- Small pictures under the main picture of the dog could be make as a slideshow

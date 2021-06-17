@@ -1,0 +1,40 @@
+<p class="style129">
+                                    This is the history of Presa Canario and Dogo Canario. However, there will be always some people who 
+                                    will try to modify the history and tell you nonsense. Be aware od these clowns.
+                                    If some breeders breed Presa Canario from original blood line of Manuel Curto breeder from Canary Islands, 
+                                    those breeders breed real Presa Canario, and can proudly say: We Breed Real Presa. No matter how much dirt 
+                                    those psychopaths who prefers Dogos will throw on them.
+                                </p>
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar-768">
+        <a class="navbar-brand" href="#">Castle of Presa</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item mx-auto active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="our_dogs.html">Our&nbsp;Dogs</a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="puppies.html">Puppies</a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="forsale.html">For&nbsp;Sale</a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="training.html">Training</a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="about.html">About Us</a>
+            </li>
+            <li class="nav-item mx-auto">
+                <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
+        </div>
+    </nav>

@@ -47,6 +47,12 @@ html {
     color: #666666;
 }
 
+.style61 {
+    font-size: 12px;
+    font-weight: 700;
+    color: #666666;
+}
+
 .style57 {
     color: #666666;
     font-family: Agincort;
@@ -159,12 +165,32 @@ html {
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
+    font-weight: bold;
+}
+
+.style261 {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .style262 {
     font-size: 24px;
     font-family: "Arial Black";
     color: #000099;
+}
+
+.style264 {
+    color: #0033CC;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.style265 {
+    font-size: 14px;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a:link {
@@ -410,5 +436,16 @@ footer {
         margin-left: 10px;
         padding: 10px 5;
         color: white;
+    }
+}
+
+@media (max-width: 320.98px) {
+    .text-message-section {
+        display: none;
+    }
+
+    .main-pictures {
+        max-width: 150px;
+        height: auto;
     }
 }
