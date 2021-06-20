@@ -75,12 +75,19 @@ html {
 }
 
 a:link {
-    color: #993300!important;
+    color: white;
 }
 
 a:visited {
-    color: #6e6e6e;
+    color: white;
 }
+
+.view-links {
+    color: #993300!important;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 
 .top-container-1 {
     display: none;
