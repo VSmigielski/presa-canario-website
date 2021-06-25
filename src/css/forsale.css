@@ -1,4 +1,8 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body, .navigation-flex {
     background-color: #475F4B;
 }
 
@@ -7,10 +11,21 @@ html {
     min-height: 100%;
 }
 
+.style15, .style47, .style52, .style55, .style56, .style57, .style60,
+.style68, .style75, .style76, .style85, .style115, .style119, .style138,
+.style148, .style230, .style252, .style260, .style261, .style264 {
+    font-weight: bold;
+}
+
+.style44, .style47, .style56, .style61, .style57, .style60, .style148,
+.style230, .style265, .main-14-p, .main-18-p, .main-24-p {
+    color: #666666;
+}
+
 .style15 {
     line-height: 22px; 
     letter-spacing: .2em; 
-    font: bold 11px Arial, Helvetica, sans-serif;
+    font-size: 11px;
     border-top: 1px solid #666666;
     flex: 1 1 4em;
     margin: auto;
@@ -19,84 +34,65 @@ html {
 
 .style44 {
     font-size: 14px;
-    color: #666666;
 }
 
 .style47 {
     font-size: 16px;
-    font-weight: bold;
-    color: #666666;
 }
 
 .style52 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #82002B;
-    font-weight: bold;
 }
 
 .style55 {
     font-size: 24px;
     color: #333333;
-    font-weight: bold;
 }
 
 .style56 {
     font-size: 18px;
-    font-weight: bold;
-    color: #666666;
 }
 
 .style61 {
     font-size: 12px;
     font-weight: 700;
-    color: #666666;
 }
 
 .style57 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 42px;
 }
 
 .style60 {
     font-size: 24px;
-    font-weight: bold;
-    color: #666666;
 }
 
 .style68 {
     font-size: 24px;
-    font-weight: bold;
     color: #000000;
 }
 
 .style75 {
     font-size: 24px;
-    font-weight: bold;
     color: #CC0000;
 }
 
 .style76 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     color: #000099;
-    font-weight: bold;
+}
+
+.style85, .style86 {
+    color: #993300;
 }
 
 .style85 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
     font-size: 11px;
-    color: #993300;
     line-height: 22px;
     letter-spacing: .2em;
 }
 
 .style86 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #993300;
     line-height: 30px;
     font-size: 26px;
     font-weight: 900;
@@ -106,98 +102,70 @@ html {
 
 .style115 {
     color: #7D0000;
-    font-weight: bold;
     font-size: 18px;
 }
 
 .style119 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 16px;
 }
 
 .style125 {
     font-weight: 800; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 18px; 
 }
 
 .style129 {
     font-size: 14px;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
     color: #000000;
 }
 
 .style138 {
-    font-weight: bold;
-    font-family: "Arial Black";
     font-size: 32px;
     color: #333333;
 }
 
 .style148 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 16px; 
-    color: #666666; 
 }
 
 .style237 {
-    font-family: "Arial Black";
     font-size: 18px;
     color: #000000;
 }
 
 .style230 {
     font-size: 14px;
-    color: #666666;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif; 
 }
 
 .style252 {
     color: #000033;
-    font-weight: bold;
-    font-family: "Arial Black";
 }
 
 .style260 {
     color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    font-weight: bold;
 }
 
 .style261 {
     color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    font-weight: bold;
 }
 
 .style262 {
     font-size: 24px;
-    font-family: "Arial Black";
     color: #000099;
 }
 
 .style264 {
     color: #0033CC;
     font-size: 18px;
-    font-weight: bold;
 }
 
 .style265 {
     font-size: 14px;
-    color: #666666;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
-a:link {
-    color: #FFFFFF;
-}
-
-a:visited {
+a:link, a:visited {
     color: #FFFFFF;
 }
 
@@ -207,11 +175,7 @@ a:visited {
     text-decoration: underline;
 }
 
-.top-container-1 {
-    display: none;
-}
-
-.top-container-2 {
+.top-container-1, .top-container-2 {
     display: none;
 }
 
@@ -222,21 +186,15 @@ a:visited {
 .main-14-p {
     font-size: 14px; 
     font-weight: 800;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
 }
 
 .main-18-p {
     font-size: 18px; 
     font-weight: 800;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
 }
 
 .main-24-p {
     font-size: 24px; 
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
     text-align: center;
 }
 
@@ -250,11 +208,7 @@ hr { display: block; height: 1px;
     margin: auto;
 }
 
-.panthera-top {
-    height: 250px;
-}
-
-.rambo-top {
+.panthera-top, .rambo-top {
     height: 250px;
 }
 
@@ -268,10 +222,6 @@ hr { display: block; height: 1px;
 
 .main-container-1 {
     display: none;
-}
-
-.navigation-flex {
-    background-color: #475F4B;
 }
 
 .main-bg{
@@ -300,12 +250,11 @@ footer {
     color: white;
 }
 
-.copyright {
+.copyright, .copyright-sm, .fa-chevron-up, .contact-me {
     padding: 5px;
 }
 
 .copyright-sm {
-    padding: 5px;
     display: none;
 }
 
@@ -319,22 +268,13 @@ footer {
     margin: auto;
 }
 
-.fa-chevron-up {
-    padding: 5px;
-}
-
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
-    padding: 5px;
 }
 
-.navbar-768 {
-    display: none;
-}
-
-.navigation-flex-bottom {
+.navbar-768, .navigation-flex-bottom {
     display: none;
 }
 

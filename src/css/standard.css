@@ -1,4 +1,8 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body, .navigation-flex {
     background-color: #362412;
 }
 
@@ -7,10 +11,18 @@ html {
     min-height: 100%;
 }
 
+.style15, .style57, .style68, .style115, .style119, .style138, .style148 {
+    font-weight: bold;
+}
+
+.style57 {
+    color: #666666;
+}
+
 .style15 {
     line-height: 22px; 
     letter-spacing: .2em; 
-    font: bold 11px Arial, Helvetica, sans-serif;
+    font-size: 11px;
     border-top: 1px solid #666666;
     flex: 1 1 4em;
     margin: auto;
@@ -18,19 +30,15 @@ html {
 }
 
 .style57 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 42px;
 }
 
 .style68 {
     color: #000000; 
-    font-weight: bold; 
 }
 
 .style85 {
-    font: bold 11px Arial, Helvetica, sans-serif;
+    font-size: 11px;
     color: #993300;
     line-height: 22px;
     letter-spacing: .2em;
@@ -38,19 +46,15 @@ html {
 
 .style115 {
     color: #7D0000;
-    font-weight: bold;
     font-size: 18px;
 }
 
 .style119 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 16px;
 }
 
 .style125 {
     font-weight: 800; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 18px; 
 }
 
@@ -61,24 +65,16 @@ html {
 }
 
 .style138 {
-    font-weight: bold;
-    font-family: "Arial Black";
     font-size: 32px;
     color: #333333;
 }
 
 .style148 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
     font-size: 18px; 
     color: #333333; 
 }
 
-a:link {
-    color: white;
-}
-
-a:visited {
+a:link, a:visited {
     color: white;
 }
 
@@ -89,11 +85,7 @@ a:visited {
 }
 
 
-.top-container-1 {
-    display: none;
-}
-
-.top-container-2 {
+.top-container-1, .top-container-2 {
     display: none;
 }
 
@@ -114,16 +106,8 @@ a:visited {
     margin-top: 20px;
 }
 
-.main-container-1 {
+.main-container-1, .main-container-2 {
     display: none;
-}
-
-.main-container-2 {
-    display: none;
-}
-
-.navigation-flex {
-    background-color: #362412;
 }
 
 .col-rounded {
@@ -157,12 +141,11 @@ footer {
     color: white;
 }
 
-.copyright {
+.copyright, .copyright-sm, .fa-chevron-up, .contact-me {
     padding: 5px;
 }
 
 .copyright-sm {
-    padding: 5px;
     display: none;
 }
 
@@ -176,22 +159,13 @@ footer {
     margin: auto;
 }
 
-.fa-chevron-up {
-    padding: 5px;
-}
-
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
-    padding: 5px;
 }
 
-.navbar-768 {
-    display: none;
-}
-
-.navigation-flex-bottom {
+.navbar-768, .navigation-flex-bottom {
     display: none;
 }
 

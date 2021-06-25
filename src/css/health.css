@@ -1,4 +1,8 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body, .navigation-flex {
     background-color:#37536F;
 }
 
@@ -7,10 +11,18 @@ html {
     min-height: 100%;
 }
 
+.style15, .style47, .style57, .style58, .style61, .style69, .style85 {
+    font-weight: bold;
+}
+
+.style46, .style49, .style57, .style58, .style96, .main-p, .main-large-p {
+    color: #666666 !important;
+}
+
 .style15 {
     line-height: 22px; 
     letter-spacing: .2em; 
-    font: bold 11px Arial, Helvetica, sans-serif;
+    font-size: 11px;
     border-top: 1px solid #666666;
     flex: 1 1 4em;
     margin: auto;
@@ -18,55 +30,44 @@ html {
 }
 
 .style46 {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 12px;
-    color: #666666!important;
     line-height: 20px;
 }
 
 .style47 {
     color: #000000;
-    font-weight: bold;
     font-size: 12px;
 }
 
 .style49 {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 10px;
-    color: #666666;
     line-height: 20px;
 }
 
 .style57 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 42px;
 }
 
 .style58 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 24px;
 }
 
 .style61 {
     font-size: 18px;
     color: #000000;
-    font-weight: bold;
 }
 
 .style69 {
     color: #333333;
     font-size: 14px;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+}
+
+.style85, .style86 {
+    color: #993300;
 }
 
 .style85 {
-    font: bold 11px Arial, Helvetica, sans-serif;
-    color: #993300;
+    font-size: 11px;
     line-height: 22px;
     letter-spacing: .2em;
 }
@@ -77,35 +78,21 @@ html {
 }
 
 .style96 {
-    color: #666666;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
 }
 
 .style86 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #993300;
     line-height: 30px;
     font-size: 26px;
     font-weight: 900;
     letter-spacing: .2em;
 }
 
-a:link {
+a:link, a:visited {
     color: #FFFFFF;
 }
 
-a:visited {
-    color: #FFFFFF;
-}
-
-.view-links-1 {
-    color: #7D0000!important;
-    font-size: 12px!important;
-    text-decoration: underline;
-}
-
-.view-links-2 {
+.view-links-1, .view-links-2 {
     color: #7D0000!important;
     font-size: 12px!important;
     text-decoration: underline;
@@ -113,14 +100,10 @@ a:visited {
 
 .main-p {
     font: 16px; 
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
 }
 
 .main-large-p {
     font-size: 24px; 
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
     text-align: center;
 }
 
@@ -138,10 +121,6 @@ a:visited {
 
 .main-container-1 {
     display: none;
-}
-
-.navigation-flex {
-    background-color: #37536F;
 }
 
 .main-bg{
@@ -186,12 +165,11 @@ footer {
     color: white;
 }
 
-.copyright {
+.copyright, .copyright-sm, .fa-chevron-up, .contact-me {
     padding: 5px;
 }
 
 .copyright-sm {
-    padding: 5px;
     display: none;
 }
 
@@ -205,22 +183,13 @@ footer {
     margin: auto;
 }
 
-.fa-chevron-up {
-    padding: 5px;
-}
-
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
-    padding: 5px;
 }
 
-.navbar-768 {
-    display: none;
-}
-
-.navigation-flex-bottom {
+.navbar-768, .navigation-flex-bottom {
     display: none;
 }
 

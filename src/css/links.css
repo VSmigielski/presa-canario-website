@@ -1,4 +1,8 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body, .navigation-flex {
     background-color: #1E022D;
 }
 
@@ -7,10 +11,18 @@ html {
     min-height: 100%;
 }
 
+.style15, .style57, .style58, .style85 {
+    font-weight: bold;
+}
+
+.style57, .style58, .main-p {
+    color: #666666;
+}
+
 .style15 {
     line-height: 22px; 
     letter-spacing: .2em; 
-    font: bold 11px Arial, Helvetica, sans-serif;
+    font-size: 11px;
     border-top: 1px solid #666666;
     flex: 1 1 4em;
     margin: auto;
@@ -18,40 +30,31 @@ html {
 }
 
 .style57 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 42px;
 }
 
 .style58 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
     font-size: 24px;
 }
 
-.style85 {
-    font: bold 11px Arial, Helvetica, sans-serif;
+.style85, .style86 {
     color: #993300;
+}
+
+.style85 {
+    font-size: 11px; 
     line-height: 22px;
     letter-spacing: .2em;
 }
 
 .style86 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #993300;
     line-height: 30px;
     font-size: 26px;
     font-weight: 900;
     letter-spacing: .2em;
 }
 
-a:link {
-    color: #FFFFFF;
-}
-
-a:visited {
+a:link, a:visited {
     color: #FFFFFF;
 }
 
@@ -62,8 +65,7 @@ a:visited {
 }
 
 .main-p {
-    font: 16px Arial, Helvetica, sans-serif;
-    color: #666666;
+    font-size: 16px;
 }
 
 .first-row {
@@ -84,10 +86,6 @@ a:visited {
 
 .main-container-1 {
     display: none;
-}
-
-.navigation-flex {
-    background-color: #1E022D;
 }
 
 .main-bg{
@@ -116,12 +114,11 @@ footer {
     color: white;
 }
 
-.copyright {
+.copyright, .copyright-sm, .fa-chevron-up, .contact-me {
     padding: 5px;
 }
 
 .copyright-sm {
-    padding: 5px;
     display: none;
 }
 
@@ -135,22 +132,13 @@ footer {
     margin: auto;
 }
 
-.fa-chevron-up {
-    padding: 5px;
-}
-
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
-    padding: 5px;
 }
 
-.navbar-768 {
-    display: none;
-}
-
-.navigation-flex-bottom {
+.navbar-768, .navigation-flex-bottom {
     display: none;
 }
 
