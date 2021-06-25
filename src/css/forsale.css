@@ -250,6 +250,14 @@ hr { display: block; height: 1px;
     margin: auto;
 }
 
+.panthera-top {
+    height: 250px;
+}
+
+.rambo-top {
+    height: 250px;
+}
+
 .col-bg {
     background-color: #000000;
 }
@@ -330,9 +338,14 @@ footer {
     display: none;
 }
 
-@media (max-width: 960px) {
-    .main-pictures {
-        max-width: 250px;
+@media (max-width: 960.98px) {
+
+    .panthera-top {
+        height: 225px;
+    }
+    
+    .rambo-top {
+        height: 225px;
     }
 }
 
@@ -348,6 +361,14 @@ footer {
 
     footer {
         margin-top: 100px;
+    }
+
+    .panthera-top {
+        height: 200px;
+    }
+    
+    .rambo-top {
+        height: 200px;
     }
 
 }
@@ -405,6 +426,16 @@ footer {
 
     .copyright-sm {
         display: block;
+    }
+}
+
+@media (max-width: 670px) {
+    .panthera-top {
+        height: 175px;
+    }
+    
+    .rambo-top {
+        height: 175px;
     }
 }
 
