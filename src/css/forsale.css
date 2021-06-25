@@ -475,8 +475,12 @@ footer {
         display: none;
     }
 
-    .main-pictures {
-        max-width: 150px;
+    .panthera-top {
         height: auto;
+        width: 200px;
+    }
+    
+    .rambo-top {
+        height: 150px;
     }
 }
