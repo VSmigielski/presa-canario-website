@@ -1,5 +1,9 @@
-body {
+body, .navigation-flex {
     background-color: #475F4B;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif
 }
 
 html {
@@ -7,142 +11,133 @@ html {
     min-height: 100%;
 }
 
+.style43, .style44, .style47, .style56, .style57, 
+.style60, .style61, .style148, .style160, .style161,
+.style182, .style183, .style184, .style230, .style253, .main-24-p,
+.style265, .style266, .main-14-p, .main-18-p 
+{
+    color: #666666!important;
+}
+
+.style15, .style47, .style52, .style55, .style56, 
+.style60, .style57, .style68, .style78, .style61,
+.style76, .style85, .style115, .style119, .style138,
+.style147, .style148, .style160, .style161, .style182,
+.style184, .style187, .style188, .style189, .style205,
+.style230, .style218, .style246, .style252, .style253,
+.style255, .style285, .style254, .style260, .style261,
+.style264, .style266, .view-links
+{
+    font-weight: bold!important;
+}
+
+.style129, .style160, .style161, .style171, 
+.style172, .style253, .style255 
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.style43, .style61, .style147, .style183, .style189,
+.style253 
+{
+    font-size: 12px!important;
+}
+
+.style44, .style129, .style160, .style172, .style184, 
+.style188, .style230, .style218, .style285, .style260,
+.style265, .style266, .main-14-p, .main-18-p 
+{
+    font-size: 14px!important;
+}
+
+.style47, .style119, .style148, .style255, .style261 {
+    font-size: 16px!important;
+}
+
+.style56, .style52,.style76, .style115, .style125,
+.style161, .style187, .style237, .style264, .style266
+{
+    font-size: 18px!important;
+}
+
+.style171, .style205 {
+    font-size: 20px!important;
+}
+
+.style182 {
+    font-size: 22px!important;
+}
+
+.style55, .style60, .style68, .style75, .style116,
+.style246, .style254, .style262, .main-24-p
+{
+    font-size: 24px!important;
+}
+
+.style138 {
+    font-size: 32px!important;
+}
+
+.style57 {
+    font-size: 42px!important;
+}
+
+.style85, .style86 {
+    letter-spacing: .2em;
+    color: #993300;
+}
+
 .style15 {
+    font-size: 11px;
     line-height: 22px; 
     letter-spacing: .2em; 
-    font: bold 11px Arial, Helvetica, sans-serif;
     border-top: 1px solid #666666;
     flex: 1 1 4em;
     margin: auto;
     width: 125px;
 }
 
-.style43 {
-    font-size: 12px;
-    color: #666666;
-}
-
-.style44 {
-    font-size: 14px;
-    color: #666666;
-}
-
-.style47 {
-    font-size: 16px;
-    font-weight: bold;
-    color: #666666;
-}
-
 .style52 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
     color: #82002B;
-    font-weight: bold;
 }
 
 .style55 {
-    font-size: 24px;
     color: #333333;
-    font-weight: bold;
-}
-
-.style56 {
-    font-size: 18px;
-    font-weight: bold;
-    color: #666666;
-}
-
-.style61 {
-    font-size: 12px;
-    font-weight: 700;
-    color: #666666;
-}
-
-.style57 {
-    color: #666666;
-    font-family: Agincort;
-    font-weight: bold;
-    font-size: 42px;
-}
-
-.style60 {
-    font-size: 24px;
-    font-weight: bold;
-    color: #666666;
-}
-
-.style68 {
-    font-size: 24px;
-    font-weight: bold;
-    color: #000000;
 }
 
 .style75 {
-    font-size: 24px;
-    font-weight: bold;
     color: #CC0000;
 }
 
 .style76 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
     color: #000099;
-    font-weight: bold;
 }
 
 .style85 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
     font-size: 11px;
-    color: #993300;
     line-height: 22px;
-    letter-spacing: .2em;
 }
 
 .style86 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #993300;
     line-height: 30px;
     font-size: 26px;
     font-weight: 900;
-    letter-spacing: .2em;
 }
 
 
 .style115 {
     color: #7D0000;
-    font-weight: bold;
-    font-size: 18px;
 }
 
 .style116 {
-    font-size: 24px;
-    font-family: Arial, Helvetica, sans-serif;
     color: #003300;
-}
-
-.style119 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
-    font-size: 16px;
 }
 
 .style125 {
     font-weight: 800; 
-    font-family: Arial, Helvetica, sans-serif; 
-    font-size: 18px; 
-}
-
-.style129 {
-    font-size: 14px;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    color: #000000;
 }
 
 .style138 {
-    font-weight: bold;
-    font-family: "Arial Black";
-    font-size: 32px;
     color: #333333;
 }
 
@@ -153,63 +148,23 @@ html {
 
 .style147 {
     color: #990000;
-    font-size: 12px;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif; 
-}
-
-.style148 {
-    font-weight: bold; 
-    font-family: Arial, Helvetica, sans-serif; 
-    font-size: 16px; 
-    color: #666666; 
-}
-
-.style160 {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 14pt;
-    color: #666666;
-    font-weight: bold;
-}
-
-.style161 {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 18pt;
-    color: #666666;
-    font-weight: bold;
 }
 
 .style171 {
-    font-size: 20px;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
     color: #003300;
 }
 
 .style172 {
-    font-family: Arial, Helvetica, sans-serif;
     line-height: 26px;
     letter-spacing: .21em;
-    font: 18px Arial, Helvetica, sans-serif;
     color: #9F0410;
-    font-size: 14px;
 }
 
 .style182 {
-    font-size: 22px!important;
-    font-weight: bold!important;
-    color: #666666!important;
     text-decoration: underline;
 }
 
-.style183 {
-    font-size: 12px;
-    color: #666666;
-}
-
 .style184 {
-    font-size: 14px!important;
-    font-weight: bold!important;
-    color: #666666!important;
     text-decoration: underline;
 }
 
@@ -219,154 +174,60 @@ html {
 
 .style187 {
     color: #CC0000;
-    font-weight: bold;
-    font-size: 18px;
 }
 
-.style188, .style189 {
+.style68, .style129, .style188, .style189, .style260, .style261,
+.style255, .style285, .style237
+{
     color: #000000;
-    font-weight: bold;
-}
-
-.style188 {
-    font-size: 14px;
-}
-
-.style189 {
-    font-size: 12px;
 }
 
 .style205 {
     color: #003399!important;
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.style187 {
-    color: #CC0000;
-    font-weight: bold;
-    font-size: 18px;
 }
 
 .style237 {
     font-family: "Arial Black";
-    font-size: 18px;
-    color: #000000;
-}
-
-.style230 {
-    font-size: 14px;
-    color: #666666;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif; 
 }
 
 .style218 {
-    font-size: 14pt;
     color: #CC3300;
-    font-weight: bold;
 }
 
 .style246 {
-    font-size: 24px;
     color: #993300;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .style252 {
     color: #000033;
-    font-weight: bold;
     font-family: "Arial Black";
 }
 
-.style253 {
-    font-size: 12px;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    color: #666666!important;
-}
-
-.style255 {
-    font-size: 16px;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    color: #000000;
-}
-
-.style285 {
-    color: #000000;
-    font-size: 14px;
-    font-weight: bold;
-}
 
 .style254 {
     color: #003399;
-    font-size: 24px;
-    font-weight: bold;
-}
-
-.style260 {
-    color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-}
-
-.style261 {
-    color: #000000;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    font-weight: bold;
 }
 
 .style262 {
-    font-size: 24px;
-    font-family: "Arial Black";
     color: #000099;
 }
 
 .style264 {
     color: #0033CC;
-    font-size: 18px;
-    font-weight: bold;
 }
 
-.style265, .style266 {
-    font-size: 14px;
-    color: #666666;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.style266 {
-    font-weight: bold;
-}
-
-.style266 {
-    color: #666666;
-    font-size: 18px;
-    font-weight: 600;
-}
-
-a:link {
-    color: #FFFFFF;
-}
-
-a:visited {
+a:link, a:visited {
     color: #FFFFFF;
 }
 
 .view-links {
     color: #993300!important;
     text-decoration: underline;
-    font-weight: bold;
 }
 
-.top-container-1 {
-    display: none;
-}
-
-.top-container-2 {
+.top-container-1, .top-container-2, .main-container-1,
+.navbar-768, .navigation-flex-bottom, .copyright-sm  
+{
     display: none;
 }
 
@@ -374,24 +235,11 @@ a:visited {
     height: 425px;
 }
 
-.main-14-p {
-    font-size: 14px; 
+.main-14-p, .main-18-p { 
     font-weight: 800;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
-}
-
-.main-18-p {
-    font-size: 18px; 
-    font-weight: 800;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
 }
 
 .main-24-p {
-    font-size: 24px; 
-    font-family: Arial, Helvetica, sans-serif;
-    color: #666666;
     text-align: center;
 }
 
@@ -405,20 +253,12 @@ hr { display: block; height: 1px;
     margin: auto;
 }
 
-.col-bg {
-    background-color: #000000;
-}
-
 .main-container {
     margin-top: 20px;
 }
 
-.main-container-1 {
-    display: none;
-}
-
-.navigation-flex {
-    background-color: #475F4B;
+.col-bg {
+    background-color: #000000;
 }
 
 .main-bg{
@@ -429,11 +269,6 @@ hr { display: block; height: 1px;
 
 .mt-small {
     margin-top: 0px;
-}
-
-.img-h-w {
-    min-width: 250px;
-    height: auto;
 }
 
 footer {
@@ -456,13 +291,9 @@ footer {
     color: white;
 }
 
-.copyright {
+.copyright, .copyright-sm, 
+.fa-chevron-up, .contact-me {
     padding: 5px;
-}
-
-.copyright-sm {
-    padding: 5px;
-    display: none;
 }
 
 .fa-youtube {
@@ -475,23 +306,10 @@ footer {
     margin: auto;
 }
 
-.fa-chevron-up {
-    padding: 5px;
-}
-
 .contact-me {
     margin-left: auto;
     margin-right: 20px;
     color: white;
-    padding: 5px;
-}
-
-.navbar-768 {
-    display: none;
-}
-
-.navigation-flex-bottom {
-    display: none;
 }
 
 .img-h-w {
