@@ -349,7 +349,7 @@ footer {
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
     .fa-youtube {
         padding: 10px 5;
         color: white;
@@ -361,3 +361,4 @@ footer {
         color: white;
     }
 }
+
