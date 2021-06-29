@@ -479,6 +479,10 @@ footer {
         min-width: 250px;
         height: auto;
     }
+
+    .style254, .style205 {
+        font-size: 14px !important;
+    }
 }
 
 @media (max-width: 320.98px) {
