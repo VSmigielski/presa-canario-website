@@ -494,3 +494,9 @@ hr { display: block; height: 1px;
         margin-top: 225px;
     }
 }
+
+@media (max-width: 280.98px) {
+    .copyright-sm {
+        display: none;
+    }
+}

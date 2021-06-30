@@ -226,3 +226,9 @@ footer {
         color: white;
     }
 }
+
+@media (max-width: 280.98px) {
+    .copyright-sm {
+        display: none;
+    }
+}

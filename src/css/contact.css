@@ -318,3 +318,9 @@ footer {
         margin-top: 225px;
     }
 }
+
+@media (max-width: 280.98px) {
+    .copyright-sm {
+        display: none;
+    }
+}
