@@ -407,6 +407,10 @@ footer {
     .main-pictures {
         max-width: 155px;
     }
+
+    .history-pictures {
+        max-width: 250px;
+    }
 }
 
 @media (max-width: 280.98px) {
