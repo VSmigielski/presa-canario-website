@@ -347,7 +347,7 @@ footer {
 
 @media (max-width: 575px) {
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 80px;
     }
 
     .btn {
@@ -371,7 +371,7 @@ footer {
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
     .fa-youtube {
         padding: 10px 5;
         color: white;
@@ -381,5 +381,15 @@ footer {
         margin-left: 10px;
         padding: 10px 5;
         color: white;
+    }
+
+    .top-container {
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 375.98px) {
+    .main-pictures {
+        max-width: 200px;
     }
 }
