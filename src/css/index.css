@@ -345,6 +345,7 @@ footer {
     
     footer {
         background-color: transparent;
+        margin-top: 15px;
     }
 
     .home-main-picture {
@@ -392,6 +393,7 @@ footer {
         width: auto;
         border-radius: 15px;
     }
+
 }
 
 @media (max-width: 400px) {
@@ -471,6 +473,10 @@ footer {
         width: auto;
         border-radius: 15px;
     }
+
+    footer {
+        margin-top: 15px;
+    }
 }
 
 @media (max-width: 280.98px) {
@@ -509,6 +515,10 @@ footer {
         height: 75px;
         width: auto;
         border-radius: 15px;
+    }
+
+    footer {
+        margin-top: 10px;
     }
 }
 

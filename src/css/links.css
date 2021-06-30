@@ -210,6 +210,7 @@ footer {
     
     footer {
         background-color: transparent;
+        margin-top: 15px;
     }
     
 }
@@ -230,5 +231,11 @@ footer {
 @media (max-width: 280.98px) {
     .copyright-sm {
         display: none;
+    }
+}
+
+@media (max-width: 240.98px) {
+    footer {
+        margin-top: 10px;
     }
 }
