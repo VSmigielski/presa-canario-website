@@ -249,7 +249,7 @@ footer {
 
 @media (max-width: 575px) {
     .top-container {
-        margin-bottom: 75px;
+        margin-bottom: 85px;
     }
 
     .bottom-navbar {
@@ -274,7 +274,7 @@ footer {
 
 @media (max-width: 380.98px) {
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 110px;
     }
 }
 
@@ -297,13 +297,14 @@ footer {
         max-width: 250px;
         height: auto;
     }
+
+    .top-container {
+        margin-bottom: 135px;
+    }
 }
 
 @media (max-width: 300.98px) {
 
-    .top-container {
-        margin-bottom: 120px;
-    }
 }
 
 @media (max-width: 280.98px) {
@@ -315,5 +316,14 @@ footer {
 @media (max-width: 240.98px) {
     footer {
         margin-top: 10px;
+    }
+
+    .main-pictures {
+        max-width: 200px;
+        height: auto;
+    }
+
+    .top-container {
+        margin-bottom: 95px;
     }
 }
