@@ -249,7 +249,7 @@ footer {
 
 @media (max-width: 575px) {
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 110px;
     }
 
     .bottom-navbar {
@@ -292,19 +292,27 @@ footer {
     }
 }
 
-@media (max-width: 325px) {
+@media (max-width: 350px) {
     .main-pictures {
-        max-width: 175px;
+        max-width: 150px;
         height: auto;
+        margin: 30px auto;
+    }
+
+    .mt-5 {
+        margin-top: 30px;
+    }
+
+    .mb-5 {
+        margin-bottom: 30px
     }
 
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 80px;
     }
 }
 
-@media (max-width: 300.98px) {
-
+@media (max-width: 333.98px) {
     .top-container {
         margin-bottom: 140px;
     }
