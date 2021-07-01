@@ -446,7 +446,7 @@ footer {
 
 @media (max-width: 575px) {
     .top-container {
-        margin-bottom: 220px;
+        margin-bottom: 210px;
     }
     
     .bottom-navbar {
@@ -464,7 +464,7 @@ footer {
 
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
     .fa-youtube {
         padding: 10px 5;
         color: white;
@@ -484,6 +484,10 @@ footer {
     .style254, .style205 {
         font-size: 14px !important;
     }
+
+    .top-container {
+        margin-bottom: 230px;
+    }
 }
 
 @media (max-width: 320.98px) {
@@ -494,6 +498,10 @@ footer {
     .main-pictures {
         max-width: 150px;
         height: auto;
+    }
+
+    .top-container {
+        margin-bottom: 140px;
     }
 }
 
@@ -513,5 +521,9 @@ footer {
 @media (max-width: 240.98px) {
     footer {
         margin-top: 10px;
+    }
+
+    .top-container {
+        margin-bottom: 130px;
     }
 }
