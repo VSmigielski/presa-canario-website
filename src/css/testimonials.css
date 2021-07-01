@@ -258,7 +258,7 @@ footer {
     
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
     .fa-youtube {
         padding: 10px 5;
         color: white;
@@ -287,14 +287,22 @@ footer {
     }
 }
 
+@media (max-width: 360.98px) {
+    audio { width: 250px; }
+}
+
 @media (max-width: 280.98px) {
     .copyright-sm {
         display: none;
     }
+
+    audio { width: 210px; }
 }
 
 @media (max-width: 240.98px) {
     footer {
         margin-top: 10px;
     }
+
+    audio { width: 180px; }
 }
