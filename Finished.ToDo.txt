@@ -1,18 +1,27 @@
-Finished:
-Home
-History
-Standard
-Health
-Training
-Articles (plus 3 inner pages)
-News
-About
-Contact
-Links
-Our Dogs
+✔All pages are Finished
 
-Left to do:
-Puppies
-For Sale
-Testimonials
-Dog Rescue
+
+<title>Castle of Presa - Presa Canarios</title>
+different title & meta desc per page
+<meta name="description" content=" " > 
+Alternate text for all pictures
+title on each link of the navigation bars
+title=""
+
+For the links that link to our website, include a title=""
+
+check all <a href="/contact/html" title="Contact Castle of Presa">Contact</a> style
+
+✔Logo Idea
+Add a title to the Castle of Presa logo (which needs to be made still)
+
+✔Check all pages for responsive setup (properly done)
+
+✔Check that links on all pages work as well as buttons
+
+On the Our Dogs page update to be thumbnails?
+
+title on buttons
+
+Make sure footer works 100%, check if you can add an animation rather than 
+the strange collapse?
