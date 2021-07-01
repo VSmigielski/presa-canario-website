@@ -435,8 +435,11 @@ hr { display: block; height: 1px;
 }
 
 @media (max-width: 575px) {
+    .top-container-sm {
+        margin-bottom: 130px;
+    }
     .main-container-2 {
-        margin-top: 175px;
+        margin-top: 120px;
     }
 
     .bottom-navbar {
@@ -467,7 +470,13 @@ hr { display: block; height: 1px;
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
+    .top-container-sm {
+        margin-bottom: 155px;
+    }
+    .main-container-2 {
+        margin-top: 130px;
+    }
     .fa-youtube {
         padding: 5px;
         color: white;
@@ -478,11 +487,29 @@ hr { display: block; height: 1px;
         padding: 5px;
         color: white;
     }
+
+    .last-section-pictures {
+        display: block;
+        margin: auto;
+        height: 150px;
+    }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 320.98px) {
     .margin-dog {
         margin-top: 10px;
+    }
+    .top-container-sm {
+        margin-bottom: 215px;
+    }
+    .main-container-2 {
+        margin-top: 130px;
+    }
+
+    .last-section-pictures {
+        display: block;
+        margin: auto;
+        height: 125px;
     }
 }
 
@@ -500,10 +527,40 @@ hr { display: block; height: 1px;
     .copyright-sm {
         display: none;
     }
+
+    .last-section-pictures {
+        display: block;
+        margin: auto;
+        height: 100px;
+    }
+
+    .main-container-2 {
+        margin-top: 215px;
+    }
+
 }
 
 @media (max-width: 240.98px) {
     footer {
         margin-top: 10px;
+    }
+
+    .top-container-sm {
+        margin-bottom: 110px;
+    }
+
+    .main-container-2 {
+        margin-top: 100px;
+    }
+
+    .main-pictures {
+        height: 150px;
+        width: auto;
+    }
+
+    .last-section-pictures {
+        display: block;
+        margin: auto;
+        height: 75px;
     }
 }
