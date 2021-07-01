@@ -257,7 +257,7 @@ footer {
 
 @media (max-width: 575px) {
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 80px;
     }
 
     .bottom-navbar {
@@ -286,7 +286,7 @@ footer {
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
 
     .fa-youtube {
         padding: 10px 5;
@@ -298,16 +298,26 @@ footer {
         padding: 10px 5;
         color: white;
     }
+
+    .top-container {
+        margin-bottom: 105px;
+    }
 }
 
-@media (max-width: 325px) {
+@media (max-width: 333.98px) {
+    .top-container {
+        margin-bottom: 165px;
+    }
+}
+
+@media (max-width: 320.98px) {
     .main-pictures {
         max-width: 175px;
         height: auto;
     }
 
     .top-container {
-        margin-bottom: 100px;
+        margin-bottom: 105px;
     }
 }
 
@@ -317,7 +327,7 @@ footer {
         height: auto;
     }
     .top-container {
-        margin-bottom: 140px;
+        margin-bottom: 85px;
     }
 }
 
