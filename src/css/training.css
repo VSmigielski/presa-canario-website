@@ -399,7 +399,7 @@ footer {
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
     .fa-youtube {
         padding: 10px 5;
         color: white;
@@ -409,6 +409,28 @@ footer {
         margin-left: 10px;
         padding: 10px 5;
         color: white;
+    }
+
+    .main-pictures {
+        max-width: 240px;
+        height: auto;
+    }
+
+    .style57 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 320.98px) {
+    .training-img {
+        min-width: 150px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    } 
+
+    .top-container {
+        margin-bottom: 140px;
     }
 }
 
@@ -421,5 +443,10 @@ footer {
 @media (max-width: 240.98px) {
     footer {
         margin-top: 10px;
+    }
+
+    .main-pictures {
+        max-width: 210px;
+        height: auto;
     }
 }
