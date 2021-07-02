@@ -134,7 +134,7 @@ a:link, a:visited {
 .btn:hover {
     border: 1px solid #362412;
     padding: 10px;
-}
+    background-color: #362412c2;
 
 footer {
     margin-top: 50px;
