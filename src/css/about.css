@@ -130,6 +130,10 @@ a:visited {
     min-height: 100%;
 }
 
+.louis {
+    border-radius: 10px!important;
+}
+
 footer {
     margin-top: 50px;
     height: 60px;
@@ -278,7 +282,7 @@ footer {
     }
 }
 
-@media (max-width: 374.98px) {
+@media (max-width: 375.98px) {
 
     .fa-youtube {
         padding: 10px 5;
@@ -289,6 +293,11 @@ footer {
         margin-left: 10px;
         padding: 10px 5;
         color: white;
+    }
+
+    .louis {
+        max-width: 240px!important;
+        height: auto;
     }
 }
 
@@ -301,6 +310,11 @@ footer {
     .top-container {
         margin-bottom: 135px;
     }
+
+    .louis {
+        max-width: 225px!important;
+        height: auto;
+    }
 }
 
 @media (max-width: 300.98px) {
@@ -310,6 +324,11 @@ footer {
 @media (max-width: 280.98px) {
     .copyright-sm {
         display: none;
+    }
+
+    .louis {
+        max-width: 200px!important;
+        height: auto;
     }
 }
 
@@ -325,5 +344,10 @@ footer {
 
     .top-container {
         margin-bottom: 95px;
+    }
+
+    .louis {
+        max-width: 180px!important;
+        height: auto;
     }
 }
