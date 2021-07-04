@@ -137,6 +137,14 @@ hr { display: block; height: 1px;
     border-bottom-left-radius: 10px;
 }
 
+.active {
+    color: #990000!important;
+}
+
+a:hover {
+    color: #7D0000!important;
+}
+
 footer {
     margin-top: 50px;
     height: 60px;

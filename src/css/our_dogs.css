@@ -241,6 +241,14 @@ footer {
     display: none;
 }
 
+.active {
+    color: #990000!important;
+}
+
+a:hover {
+    color: #7D0000!important;
+}
+
 hr { display: block; height: 1px;
     border: 0; border-top: 1px solid rgb(0, 0, 0);
     background-color: black;

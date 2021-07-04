@@ -142,6 +142,14 @@ footer {
     display: none;
 }
 
+.active {
+    color: #990000!important;
+}
+
+a:hover {
+    color: #7D0000!important;
+}
+
 @media (max-width: 1224.98px) {
     footer {
         margin-top: 75px;

@@ -116,6 +116,14 @@ a:link, a:visited {
     margin: auto;
 }
 
+.active {
+    color: #990000!important;
+}
+
+a:hover {
+    color: #7D0000!important;
+}
+
 footer {
     margin-top: 50px;
     height: 60px;

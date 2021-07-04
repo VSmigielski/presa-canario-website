@@ -322,6 +322,14 @@ footer {
     width: auto;
 }
 
+.active {
+    color: #990000!important;
+}
+
+a:hover {
+    color: #7D0000!important;
+}
+
 @media screen and (max-width: 1100.98px) {
     .img-h-w {
         min-width: 287.48px;
