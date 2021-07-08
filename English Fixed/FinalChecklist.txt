@@ -1,0 +1,28 @@
+✔<title>Castle of Presa - Presa Canarios</title>
+✔different title & meta desc per page <meta name="description" content=" " > 
+✔Alternate text for all pictures
+✔title on each link of the navigation bars title=""
+
+✔For the links that link to our website, include a title=""
+
+✔check all <a href="/contact/html" title="Contact Castle of Presa">Contact</a> style
+
+✔Logo Idea
+✔Add a title to the Castle of Presa logo (which needs to be made still)
+
+✔Check all pages for responsive setup (properly done)
+
+✔Check that links on all pages work as well as buttons
+
+✔title on buttons
+
+✔<link rel="shortcut icon" href="src/images/Onyx-Logo.png" type="image/png">
+
+✔Make sure footer works 100%
+
+✔<meta name="keywords content="Castle of Presa, Presa Canario kennel, Presa Canario breeder, Presa Canario images, COPK9, Canarian Bull, Canarian Mastiff, Presa guard dogs, Dogo Canario, Oldschoolpresas, blackpresas, canarydogs curtobloodline, blackpresapuppies, importedpresas, originalpresas, realpresas, genuinepresas, canarymastiffs, dogrehab, dogbehavior, dogtrainer, guardians, guarddogs, Presa Canario breeder, not Dogo Canario, Arizona Presa, Phoenix Presa, Perro de Presa Canario, Gripper, Irema Curto, Presa Canario photo gallery, Presa Dog photos, Presa Canario foto, Canada Presa, Australia Presa, Atlas Asio blood lines, Rey Gladiador, Cane Corso, Presa in Germany, Black Presa Canario Images, Black Presa breeder, Spanish Alanos, Raza Presa Canario, la raza Presa, Sando-can, Electra de Irema Curto, my presa, ElPresa, Presa Canario for sale, Protection dogs, personal protection training, Florida Presas, Priesa, Prisa, Preesa, Preza, California Presas, K9Presa, Red Star Presa, Bandit de Irema Curto, Presa puppies for sale, Phoenix Presas, Presa Stud dog services">
+✔<meta name="ROBOTS" content="ALL" />
+
+✔About Us New text: 
+Castle of Presa has a new partner.
+I would like to welcome our new partner Louis Aragon. Louis is willing to take all the work with puppies on his shoulders, so I can concentrate more on dog training and dog rehabilitations.
