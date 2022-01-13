@@ -330,10 +330,18 @@ a:hover {
     color: #7D0000!important;
 }
 
+.img-max-height-parents {
+    max-width: 300px;
+}
+
 @media screen and (max-width: 1100.98px) {
     .img-h-w {
         min-width: 287.48px;
         height: auto;
+    }
+
+    .img-max-height-parents {
+        max-width: 220px;
     }
 }
 
@@ -348,6 +356,10 @@ a:hover {
     .img-h-w {
         min-width: 263.73px;
         height: auto;
+    }
+
+    .img-max-height-parents {
+        max-width: 200px;
     }
 }
 
@@ -370,6 +382,10 @@ a:hover {
     .img-h-w {
         min-width: 250px;
         height: auto;
+    }
+
+    .img-max-height-parents {
+        max-width: 180px;
     }
 
 }
